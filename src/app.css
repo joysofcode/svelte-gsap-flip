@@ -1,0 +1,13 @@
+@import '@fontsource/jetbrains-mono';
+
+body {
+	font-family: 'JetBrains Mono', sans-serif;
+	color: hsl(220 10% 80%);
+	background-color: hsl(220 10% 10%);
+	background-attachment: fixed;
+	padding: 1rem;
+}
+
+body::-webkit-scrollbar {
+	display: none;
+}
